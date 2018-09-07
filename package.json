@@ -15,7 +15,7 @@
     "homepage": "http://adminarchitect.com",
     "dependencies": {
         "axios": "^0.16.2",
-        "bootstrap": "^3.3.7",
+        "bootstrap": "^4.0.0",
         "bootstrap-datepicker": "git+https://github.com/uxsolutions/bootstrap-datepicker.git",
         "bootstrap-daterangepicker": "git+https://github.com/dangrossman/bootstrap-daterangepicker.git",
         "ckeditor": "^4.7.0",
